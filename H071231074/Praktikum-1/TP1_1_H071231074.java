@@ -1,8 +1,8 @@
-package Tugas;
+package Praktikum1;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class no1 {
+public class TP1_1_H071231074 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
