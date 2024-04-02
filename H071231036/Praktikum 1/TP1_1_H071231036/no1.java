@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BilanganChecker {
+public class no1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int jumlahBilanganBulat = 0;
