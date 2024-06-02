@@ -1,0 +1,32 @@
+.root {
+    -fx-font-family: "Arial";
+}
+
+.box {
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-effect: dropshadow(one-pass-box, rgba(0,0,0,0.12), 10, 0, 0, 0);
+}
+
+.footer {
+    -fx-background-color: #2C3E50;
+}
+
+.footerLabel {
+    -fx-text-fill: white;
+}
+
+.header {
+    -fx-background-color: #2C3E50;
+}
+
+.button {
+    -fx-background-color: #2C3E50;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.buttonText {
+    -fx-text-fill: white;
+}
