@@ -1,0 +1,148 @@
+.button {
+    font-size: 14px; 
+    -fx-font-size: 14px; 
+    padding: 10px 20px; 
+    -fx-padding: 10px 20px; 
+    background-color: #007bff; 
+    -fx-background-color: #007bff; 
+    -fx-background-radius: 5px;
+    -fx-text-fill: white;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3; 
+    -fx-background-color: #0056b3; 
+}
+
+.nav-button {
+    font-size: 14px; 
+    -fx-font-size: 14px; 
+    padding: 10px 20px; 
+    -fx-padding: 10px 20px; 
+    background-color: transparent; 
+    -fx-background-color: transparent; 
+    -fx-text-fill: white;
+    cursor: pointer;
+    border: none;
+    -fx-background-radius: 5px;
+}
+
+.nav-button:hover {
+    background-color: #334166; 
+    -fx-background-color: #334166; 
+}
+
+.edit-button {
+    font-size: 14px; 
+    -fx-font-size: 14px; 
+    padding: 5px 10px; 
+    -fx-padding: 5px 10px; 
+    background-color: #334166; 
+    -fx-background-color: #334166; 
+    -fx-background-radius: 5px;
+    -fx-text-fill: white;
+    cursor: pointer;
+}
+
+.edit-button:hover {
+    background-color: #4B5B8A; 
+    -fx-background-color: #4B5B8A; 
+}
+
+.save-button {
+    font-size: 14px; 
+    -fx-font-size: 14px; 
+    padding: 10px 20px; 
+    -fx-padding: 10px 20px; 
+    background-color: #334166; 
+    -fx-background-color: #334166; 
+    -fx-background-radius: 5px;
+    -fx-text-fill: white;
+    cursor: pointer;
+}
+
+.save-button:hover {
+    background-color: #4B5B8A; 
+    -fx-background-color: #4B5B8A; 
+}
+
+.text-field {
+    font-size: 14px; 
+    -fx-font-size: 14px; 
+    padding: 5px 10px; 
+    -fx-padding: 5px 10px; 
+    background-color: #19233C; 
+    -fx-background-color: #19233C; 
+    -fx-background-radius: 5px;
+    -fx-text-fill: white;
+    border-color: #334166;
+    -fx-border-color: #334166; 
+    border-radius: 5px; 
+    -fx-border-radius: 5px; 
+}
+
+.white-text {
+    color: white; 
+    -fx-text-fill: white; 
+}
+
+.vbox-home {
+    background-color: #003366; 
+    -fx-background-color: #003366; 
+}
+
+.header-text {
+    font-family: Arial; 
+    -fx-font-family: Arial; 
+    font-weight: bold; 
+    -fx-font-weight: bold; 
+    font-size: 24px; 
+    -fx-font-size: 24px; 
+    color: white; 
+    fill: white; 
+    -fx-fill: white; 
+}
+
+.header-box {
+    -fx-alignment: center-left;
+    padding: 20px 0 20px 20px; 
+    -fx-padding: 20px 0 20px 20px; 
+    background-color: #141A2E; 
+    -fx-background-color: #141A2E; 
+}
+
+.fullname {
+    color: white; 
+    -fx-text-fill: white; 
+    font-family: Arial; 
+    -fx-font-family: Arial; 
+    font-weight: bold; 
+    -fx-font-weight: bold; 
+    font-size: 18px; 
+    -fx-font-size: 18px; 
+}
+
+.nav-box {
+    background-color: #19233C; 
+    -fx-background-color: #19233C; 
+    padding: 20px; 
+    -fx-padding: 20px; 
+}
+
+.section-header {
+    font-family: Arial; 
+    -fx-font-family: Arial; 
+    font-weight: bold; 
+    -fx-font-weight: bold; 
+    font-size: 16px; 
+    -fx-font-size: 16px; 
+    color: white; 
+    fill: white; 
+    -fx-fill: white; 
+}
+
+.main-box {
+    background-color: #141A2E; 
+    -fx-background-color: #141A2E; 
+}
