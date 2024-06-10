@@ -1,0 +1,25 @@
+.root {
+    -fx-background-color: linear-gradient(to bottom right, #80cbc4, #b2dfdb);
+}
+
+.left-section {
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+}
+
+.right-section {
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+}
+
+.info-section {
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+}
+
+.text-area {
+    -fx-control-inner-background: #f0f4c3;
+}
