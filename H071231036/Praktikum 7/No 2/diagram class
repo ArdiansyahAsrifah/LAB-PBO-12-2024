@@ -1,0 +1,84 @@
++--------------------+
+|      Karyawan      |
++--------------------+
+| - nama: String     |
+| - umur: int        |
+| - jabatan: String  |
+| - gaji: double     |
++--------------------+
+| +Karyawan(String, int, String, double)|
+| +getNama(): String |
+| +setNama(String): void |
+| +getUmur(): int    |
+| +setUmur(int): void |
+| +getJabatan(): String |
+| +setJabatan(String): void |
+| +getGaji(): double |
+| +setGaji(double): void |
+| +tampilkanDetail(): void |
++--------------------+
+
++--------------------+
+|     Kehidupan      |
++--------------------+
+| +prosesKehidupan(): void |
++--------------------+
+                ^
+                |
+                |
++--------------------+
+|   Pengalaman       |
++--------------------+
+| - jenisPekerjaan: String |
++--------------------+
+| +Pengalaman(String)|
+| +getJenisPekerjaan(): String |
+| +setJenisPekerjaan(String): void |
+| +prosesKehidupan(): void |
+| +prosesKehidupan(String): void |
++--------------------+
+
++--------------------+
+|    Pendidikan      |
++--------------------+
+| +tampilkanPendidikanTerakhir(String): void |
+| +tampilkanPendidikanTerakhir(String, String): void |
++--------------------+
+
++--------------------+
+|      Projek        |
++--------------------+
+| +tampilkanJumlahProjek(int): void |
+| +tampilkanJumlahProjek(int, String): void |
++--------------------+
+
++--------------------+
+|    Organisasi      |
++--------------------+
+| - jenisOrganisasi: String |
++--------------------+
+| +Organisasi(String)|
+| +getJenisOrganisasi(): String |
+| +setJenisOrganisasi(String): void |
+| +tampilkanJenisOrganisasi(): void |
++--------------------+
+
++--------------------+
+|      Keluarga      |
++--------------------+
+| - menikah: boolean |
++--------------------+
+| +Keluarga(boolean) |
+| +isMenikah(): boolean |
+| +setMenikah(boolean): void |
+| +cekStatusMenikah(): void |
++--------------------+
+
++--------------------+
+|       Main         |
++--------------------+
+| +main(String[]): void |
+| +tambahKaryawan(): void |
+| +tampilkanDetailKaryawan(): void |
+| +playSound(String): void |
++--------------------+
